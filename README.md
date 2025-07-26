@@ -18,6 +18,11 @@ requests library
 
 beautifulsoup4 library
 
+```sh
+pip install requests
+pip install beautifulsoup4
+```
+
 ## Installation & Setup
 
 Follow these steps to get the project running on your local machine.
