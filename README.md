@@ -64,4 +64,32 @@ Once the setup is complete, run the script from your terminal:
 python aggregator.py
 ```
 
+## Example Output
+```sh
+Fetching Hacker News stories...
+Fetching Reddit r/programming stories...
+
+========================================
+ Hacker News - Top 10 Stories 
+========================================
+1. Ask HN: What are you reading?
+   Link: item?id=41062024
+
+2. SpaceX successfully launches Starship's fifth flight test
+   Link: https://www.spacex.com/launches/mission/?missionId=starship-flight-5
+
+... 8 more stories ...
+
+========================================
+ Reddit r/programming - Top 10 Stories 
+========================================
+1. Why does modern C++ feel so slow to compile?
+   Link: https://old.reddit.com/r/programming/comments/...
+
+2. A list of command-line tools for manipulating structured text data
+   Link: https://github.com/dbohdan/structured-text-tools
+
+... 8 more stories ...
+
+```
 
